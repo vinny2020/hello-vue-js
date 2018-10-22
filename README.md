@@ -1,3 +1,8 @@
+Runs @ https://vinny2020.netlify.com/
+
+Not much to see yet though :) 
+
+
 # first-cli-project
 
 ## Project setup
